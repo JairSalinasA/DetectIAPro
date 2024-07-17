@@ -42,7 +42,7 @@ DetectIAPro/
 
 1. 📥 Clona el repositorio
 
-git clone https://github.com/tuusuario/DetectIAPro.git
+git clone [https://github.com/tuusuario/DetectIAPro.git](https://github.com/JairSalinasA/DetectIAPro.git)
 
 2. 🛠️ Abre la solución en Visual Studio
 3. 🏗️ Compila el proyecto
