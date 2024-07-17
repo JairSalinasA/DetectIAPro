@@ -58,7 +58,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ### 📞 Contacto
 
-Para preguntas y soporte, por favor abre un issue en el repositorio o contacta a [tu@email.com](mailto:tu@email.com).
+Para preguntas y soporte, por favor abre un issue en el repositorio o contacta a [jairbaldemar@gmail.com](mailto:tu@email.com).
 
 ---
 
